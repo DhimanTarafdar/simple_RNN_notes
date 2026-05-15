@@ -15,11 +15,6 @@ A beginner-friendly notebook on **Recurrent Neural Network (RNN)** and how it wo
 - **Folded vs Unfolded RNN**
 - **Backpropagation Through Time (BPTT)**
 - Different RNN Architectures:
-  - One-to-One
-  - One-to-Many
-  - Many-to-One
-  - Many-to-Many
-  - Encoder-Decoder
 - Trainable Parameter Calculation in Simple RNN
 
 ## Important Keywords
